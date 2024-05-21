@@ -14,3 +14,7 @@
    3. The score should be displayed if it is above 0 on the intro screen
    4. Music needs to be added
    5. Tweak speed and timing to make the game hard enough to be interesting
+  
+# How to Run the Project
+1. cd into v1 directory
+2. run this command: python3 main.py
